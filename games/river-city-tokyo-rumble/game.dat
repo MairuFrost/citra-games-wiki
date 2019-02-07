@@ -1,0 +1,9 @@
+title = "River City: Tokyo Rumble"
+description = "River City: Tokyo Rumble is a beat'em up in the River City series published by Natsume in the west. It is most similar to River City Ransom with RPG-like mechanics and doing jobs to learn new moves. It also features a 4 player arena and dodgeball modes that use download play."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000197700"
+region = "usa"
+release_date = "2016-09-27"
